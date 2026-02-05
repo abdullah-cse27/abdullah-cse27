@@ -1,14 +1,14 @@
-## 📈 GitHub Stats (Card Version)
+## 📈 GitHub Stats (Internal GitHub Cards)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullah-cse27&show_icons=true&hide_border=true&theme=tokyonight&border_radius=12&card_width=350" height="165" />
-  <img src="https://streak-stats.demolab.com?user=abdullah-cse27&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img height="165" src="https://github.com/abdullah-cse27/abdullah-cse27/blob/main/assets/github-stats.png?raw=true" />
+  <img height="165" src="https://github.com/abdullah-cse27/abdullah-cse27/blob/main/assets/streak.png?raw=true" />
 </p>
 
 ---
 
-## 🌐 Most Used Languages (Compact Card)
+## 🌐 Most Used Languages (Internal GitHub Card)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdullah-cse27&layout=compact&hide_border=true&theme=tokyonight&border_radius=12&card_width=350" height="165" />
+  <img height="165" src="https://github.com/abdullah-cse27/abdullah-cse27/blob/main/assets/langs.png?raw=true" />
 </p>
