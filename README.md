@@ -63,6 +63,7 @@ I'm <b>Abdullah</b>, exploring <b>Machine Learning, NLP, Generative AI</b> and c
 
 <br/>
 
+<img height="210" src="https://streak-stats.demolab.com?user=abdullah-cse27&date_format=j%20M%5B%20Y%5D" />
 
 
 </div>
