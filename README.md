@@ -40,7 +40,7 @@ I'm <b>Abdullah</b>, exploring <b>Machine Learning, NLP, Generative AI</b> and c
 
 ---
 
-# 📊 GitHub Summary (Warm Premium Cards)
+# 📊 GitHub Summary
 
 <div align="center">
 
@@ -63,7 +63,7 @@ I'm <b>Abdullah</b>, exploring <b>Machine Learning, NLP, Generative AI</b> and c
 
 <br/>
 
-<img height="210" src="https://streak-stats.demolab.com?user=abdullah-cse27&theme=dark&hide_border=true&ring=F6A97A&fire=F7C59F&currStreakLabel=F6A97A&background=1A1A1A" />
+
 
 </div>
 
