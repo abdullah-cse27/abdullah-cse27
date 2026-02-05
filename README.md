@@ -8,43 +8,47 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=30&duration=2600&pause=1100&color=E28E48&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+NLP+%7C+GenAI;Insight+Extraction+%7C+Automation;Building+Warm+%26+Intelligent+AI+Systems" />
 
-</div>
+<!-- 🌈 PREMIUM COLORFUL ABOUT ME CARD -->
+<div align="center">
+
+<table width="100%">
+<tr>
+<td style="
+background: linear-gradient(145deg, #F7D0A6, #F4B78A, #EFA572);
+padding: 30px;
+border-radius: 18px;
+box-shadow: 0 0 18px #00000055;
+color: #3B2F2F;
+">
+
+<h2 style="margin-bottom: 10px;">🧠 <b style="color:#3B2F2F;">About Me</b></h2>
 
 ---
 
-# 🧠 About Me  
-<div align="center">
-
-<table width="92%">
-<tr><td style="
-background:#F4D2B2; 
-padding:28px; 
-border-radius:18px;
-box-shadow:0 0 12px #00000030;
-">
-
-<h2 style="color:#3B2F2F;">👤 Who I Am</h2>
-
-<p align="left" style="color:#3B2F2F;">
+### 👤 <span style="color:#3B2F2F; font-size:22px;"><b>Who I Am</b></span>  
+<p align="left" style="color:#3B2F2F; font-size:16px;">
 I'm <b>Abdullah</b>, exploring <b>Machine Learning, NLP, and Generative AI</b>  
-to build <b>clean, scalable, and human-centered AI workflows</b>.  
-My focus is on blending <b>data understanding</b> with  
-<b>warm + elegant design principles</b> to create meaningful automation.
+to build <b>clean, scalable, human-centered AI workflows</b>.  
+Focusing on creating automation with <b>warm + elegant + meaningful</b> design.
 </p>
 
-<h3 style="color:#3B2F2F;">📘 Background</h3>
+---
 
-<ul align="left" style="color:#3B2F2F;">
-<li>B.Tech CSE ’27</li>
-<li>Python • SQL • Pandas • NumPy</li>
-<li>Machine Learning • NLP • GenAI</li>
-<li>EDA • Insight Visualization</li>
-<li>Real-world Dataset Exploration</li>
-<li>AI Workflow Automation</li>
+### 🔷 <span style="color:#3B2F2F; font-size:22px;"><b>Background</b></span>
+
+<ul align="left" style="color:#3B2F2F; font-size:16px; line-height:1.6;">
+<li><b>B.Tech CSE ’27</b></li>
+<li><b>Python • SQL • Pandas • NumPy</b></li>
+<li><b>Machine Learning • NLP • GenAI</b></li>
+<li><b>EDA • Visualization • Insight Extraction</b></li>
+<li><b>Real-world Dataset Exploration</b></li>
+<li><b>AI Workflow Automation</b></li>
 </ul>
 
-</td></tr>
+</td>
+</tr>
 </table>
+
 </div>
 
 ---
