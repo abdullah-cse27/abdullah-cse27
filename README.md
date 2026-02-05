@@ -1,11 +1,11 @@
 <!-- 🌅 PREMIUM WARM HEADER -->
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=36&duration=2600&pause=1200&color=FFB77A&center=true&vCenter=true&width=850&lines=Abdullah+Shah;ML+%7C+NLP+%7C+GenAI+Explorer;Building+Intelligent+%26+Warm+AI+Systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:F6A97A,100:F4CDA5&text=Welcome+to+My+GitHub&fontColor=3B2F2F&fontSize=32&animation=fadeIn&fontAlignY=42" />
 
 <br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=36&duration=2600&pause=1200&color=FFB77A&center=true&vCenter=true&width=850&lines=Abdullah+Shah;ML+%7C+NLP+%7C+GenAI+Explorer;Building+Intelligent+%26+Warm+AI+Systems" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:F6A97A,100:F4CDA5&text=Welcome+to+My+GitHub&fontColor=3B2F2F&fontSize=32&animation=fadeIn&fontAlignY=42" />
+
 
 </div>
 
