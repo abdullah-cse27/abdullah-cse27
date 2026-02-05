@@ -78,7 +78,7 @@ I'm <b>Abdullah</b>, exploring <b>Machine Learning, NLP, Generative AI</b> and c
 ---
 
 # 📬 Contact Me  
-📧 **shahabdulla09856@gmail.com**  
+📧 **Email:** **shahabdulla09856@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/abdullah-cse27
 
 ---
