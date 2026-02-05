@@ -1,44 +1,44 @@
 <div align="center">
 
-<!-- PREMIUM HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=2500&pause=700&center=true&vCenter=true&color=00E5FF&width=700&lines=Abdullah+Shah;AI+Explorer+|+ML+Learner+|+NLP+Enthusiast;Turning+Data+Into+Intelligence" />
+<!-- HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=32&pause=800&duration=2600&color=FFB677&center=true&vCenter=true&width=700&lines=Abdullah+Shah;Machine+Learning+%7C+NLP+%7C+Gen+AI;Turning+Data+Into+Warm+Insights" />
 
 <br/>
 
-<!-- MAIN TAGLINE -->
-<img src="https://img.shields.io/badge/Building%20Smart%20%26%20Scalable%20AI%20Systems-6A82FB?style=for-the-badge&logo=rainmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Crafting%20Intelligent%20AI%20Systems-F6A97A?style=for-the-badge&logo=sparks&logoColor=fff"/>
 
 </div>
 
 ---
 
 ## 🧠 About Me  
-I'm **Abdullah**, diving deep into  
-**Machine Learning · NLP · Generative AI · Automation**,  
-focused on creating **clean, intelligent, scalable AI & data-driven solutions.**
+
+I'm **Abdullah**, exploring **ML, NLP, Generative AI & Data Automation**,  
+focusing on building **clean, scalable, human-centered AI solutions**  
+with warm, minimalistic design thinking.
 
 - 🎓 **B.Tech CSE ’27**  
 - 🐍 Python · SQL · Pandas · NumPy  
-- 🤖 ML · GenAI · NLP  
-- 📊 EDA · Insight Visualization  
-- 🚀 AI Workflows & Automation  
-- 📚 Always learning, always building  
+- 🤖 Machine Learning · GenAI · NLP  
+- 📊 EDA · Elegant Visualizations  
+- 🧩 AI Workflows & Automation  
+- 🌱 Always learning something meaningful  
 
 ---
 
 <div align="center">
 
-## 🔥 My AI + Data Profile Card (Clean Premium)
-<img src="https://img.shields.io/badge/ML-6A82FB?style=flat-square&logo=tensorflow&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/NLP-A777E3?style=flat-square&logo=bookstack&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/GenAI-4FACFE?style=flat-square&logo=openai&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-00E5FF?style=flat-square&logo=plotly&logoColor=white" height="28"/>
+## 🌤 Warm Profile Badges  
+<img src="https://img.shields.io/badge/ML-F6A97A?style=flat-square&logo=tensorflow&logoColor=fff" height="28"/>
+<img src="https://img.shields.io/badge/NLP-EFBF9C?style=flat-square&logo=python&logoColor=fff" height="28"/>
+<img src="https://img.shields.io/badge/GenAI-FCC7A3?style=flat-square&logo=openai&logoColor=000" height="28"/>
+<img src="https://img.shields.io/badge/Data%20Viz-F7D7B5?style=flat-square&logo=plotly&logoColor=000" height="28"/>
 
 </div>
 
 ---
 
-## 📊 Abdullah’s GitHub Summary (Premium Cards)
+## 📊 GitHub Summary (Warm Theme)
 
 <div align="center">
 
@@ -46,21 +46,21 @@ focused on creating **clean, intelligent, scalable AI & data-driven solutions.**
 <tr>
 <td>
 
-<!-- STATS CARD -->
-<img height="165" src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=abdullah-cse27&show_icons=true&title_color=00E5FF&text_color=CFCFCF&icon_color=4FACFE&bg_color=0D1117&hide_border=true" />
+<!-- Stats -->
+<img height="170" src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=abdullah-cse27&show_icons=true&title_color=F6A97A&text_color=F5E8D0&icon_color=F6A97A&bg_color=1A1A1A&hide_border=true" />
 
 </td>
 <td>
 
-<!-- LANG CARD -->
-<img height="165" src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=abdullah-cse27&layout=compact&title_color=A777E3&text_color=CFCFCF&bg_color=0D1117&hide_border=true" />
+<!-- Languages -->
+<img height="170" src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=abdullah-cse27&layout=compact&title_color=F7C59F&text_color=F5E8D0&bg_color=1A1A1A&hide_border=true" />
 
 </td>
 </tr>
 </table>
 
-<!-- STREAK -->
-<img height="180" src="https://streak-stats.demolab.com?user=abdullah-cse27&theme=dark&hide_border=true&ring=00E5FF&fire=A777E3&currStreakLabel=4FACFE" />
+<!-- Streak -->
+<img height="180" src="https://streak-stats.demolab.com?user=abdullah-cse27&theme=dark&hide_border=true&ring=F6A97A&fire=F7C59F&currStreakLabel=F6A97A&background=1A1A1A" />
 
 </div>
 
@@ -76,13 +76,13 @@ focused on creating **clean, intelligent, scalable AI & data-driven solutions.**
 ---
 
 ## 📬 Contact  
-📧 Email: **shahabdulla09856@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/abdullah-cse27**
+📧 **shahabdulla09856@gmail.com**  
+🔗 **https://www.linkedin.com/in/abdullah-cse27**
 
 ---
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F6A97A&section=footer"/>
 
 </div>
